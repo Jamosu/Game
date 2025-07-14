@@ -32,16 +32,16 @@ Dự án này là một trò chơi đua xe 3D được phát triển bằng **Un
 
 ## 🕹️ 4 Chế Độ Chơi (Maps)
 
-### 🧰 1. **Map Khám Phá Xe (Garage/Free Roam)**  
+### 🧰 1. **Map Khám Phá Xe (Garage/Test Car)**  
 Người chơi có thể tự do điều khiển xe trong môi trường mô phỏng để làm quen với cơ chế điều khiển, tốc độ, góc cua và va chạm.
 
-### ⏱️ 2. **Map Đua Theo Thời Gian (Time Attack)**  
+### ⏱️ 2. **Map Đua Theo Thời Gian (Time Attack/Play vs Map)**  
 Người chơi phải hoàn thành vòng đua trong thời gian giới hạn. Thành tích tốt nhất sẽ được lưu và hiển thị.
 
-### 🧱 3. **Map Vượt Chướng Ngại Vật (Obstacle Challenge)**  
+### 🧱 3. **Map Vượt Chướng Ngại Vật (Obstacle Challenge/Play vs Terrain)**  
 Bản đồ chứa nhiều thử thách như hố sâu, vật cản, dốc đứng... yêu cầu kỹ năng điều khiển xe chính xác.
 
-### 🤖 4. **Map Đua Với Bot (AI Racer)**  
+### 🤖 4. **Map Đua Với Bot (AI Racer/Play vs AI)**  
 Người chơi thi đấu với một hoặc nhiều xe điều khiển bằng trí tuệ nhân tạo. Bot sử dụng **ML Agents** để học cách đua và tối ưu lộ trình.
 
 ---
