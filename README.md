@@ -58,21 +58,3 @@ Người chơi thi đấu với một hoặc nhiều xe điều khiển bằng t
 | Unity Physics | Mô phỏng vật lý xe |
 
 ---
-
-## 🖥️ Cấu trúc thư mục
-
-```bash
-├── Assets/
-│   ├── Scripts/
-│   ├── Prefabs/
-│   ├── Scenes/
-│   │   ├── Map_FreeRoam.unity
-│   │   ├── Map_TimeAttack.unity
-│   │   ├── Map_Obstacle.unity
-│   │   └── Map_BotRace.unity
-│   ├── Models/
-│   ├── Materials/
-│   └── ML_Agents/
-├── README.md
-├── .gitignore
-└── ProjectSettings/
